@@ -3,8 +3,7 @@ layout: page
 title: Contact SQLSaturday
 permalink: /contact/
 ---
-
-SQL Saturday is an independent corporation established in the United States, in Texas. We can be reached in these ways:
+T-SQL Tuesday is supported and managed by the SQL Saturday corporation. SQL Saturday is an independent US charitable 501.c.3 foundation established in the United States, in Texas. We can be reached in these ways:
 
 Mailing Address:
     SQL Saturday
