@@ -17,9 +17,9 @@ author: The SQL Saturday Corporation
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  The Archive: "archive"
+  The Archive: "the-archive"
   Rules: "rules"
-  Host Index: "hosts"
+  Host Index: "host-index"
   About: "about"
   Contact: "contact"
 
