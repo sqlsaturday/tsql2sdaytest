@@ -8,7 +8,7 @@ title: "T-SQL Tuesday"
 The current invitation (August 2024) is for T-SQL Tuesday #177. The next invitation should be released on September 3.
 
 ## T-SQL Tuesday #177: Managing database code
-[Invitation](https://curiousaboutdata.com/2024/08/07/t-sql-tuesday-177-managing-database-code/) from [Mala Mahadevan](https://curiousaboutdata.com/)
+[Invitation](https://curiousaboutdata.com/2024/08/07/t-sql-tuesday-177-managing-database-code/) and [recap](https://curiousaboutdata.com/2024/08/18/t-sql-tuesday-177-roundup-managing-database-code/) from [Mala Mahadevan](https://curiousaboutdata.com/)
 
 I am excited to host the T-SQL Tuesday blog party for August 2024. I’ve done this many times, but I always remember when I was new to the community and how much it helped me gain recognition. Thanks to Adam Machanic for starting this initiative and to Steve Jones for keeping it going.
 
