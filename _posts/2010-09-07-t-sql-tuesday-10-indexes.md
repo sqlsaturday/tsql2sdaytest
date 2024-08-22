@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #010 – Indexes'
 date: '2010-09-07T21:11:26+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1071'
-permalink: '/?p=1071'
+permalink: '/1071'
 categories:
     - Uncategorized
 tags:

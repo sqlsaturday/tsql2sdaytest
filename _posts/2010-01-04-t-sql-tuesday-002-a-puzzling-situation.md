@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #002: A Puzzling Situation'
 date: '2010-01-04T19:18:22+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=801'
-permalink: '/?p=801'
+permalink: '/801'
 categories:
     - Uncategorized
 tags:
