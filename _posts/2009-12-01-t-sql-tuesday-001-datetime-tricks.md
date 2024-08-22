@@ -1,11 +1,10 @@
 ---
-id: 781
+id: 1
 title: 'T-SQL Tuesday #001: Date/Time Tricks'
 date: '2009-12-01T19:14:07+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=781'
-permalink: '/?p=781'
+permalink: '/001'
 categories:
     - Uncategorized
 tags:

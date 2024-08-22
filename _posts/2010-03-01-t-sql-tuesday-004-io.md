@@ -1,10 +1,10 @@
 ---
-id: 911
+id: 4
 title: 'T-SQL Tuesday #004: IO'
 date: '2010-03-01T20:38:08+00:00'
 author: way0utwest
 layout: post
-permalink: '/911'
+permalink: '/004'
 categories:
     - Uncategorized
 tags:

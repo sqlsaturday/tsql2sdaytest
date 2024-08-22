@@ -1,11 +1,10 @@
 ---
-id: 3870
+id: 23
 title: 'T-SQL Tuesday #023 &#8211; Joins'
 date: '2011-09-27T16:21:20+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3870'
-permalink: '/?p=3870'
+permalink: '/23
 categories:
     - Invitations
 tags:

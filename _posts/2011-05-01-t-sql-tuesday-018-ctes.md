@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #018 &#8211; CTEs'
 date: '2011-05-01T16:01:15+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3852'
-permalink: '/?p=3852'
+permalink: '/3852'
 categories:
     - Invitations
 tags:
