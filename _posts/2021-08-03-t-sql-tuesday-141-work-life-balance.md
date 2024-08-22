@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #141: Work/Life Balance?'
 date: '2021-08-03T16:06:37+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4306'
-permalink: '/?p=4306'
+permalink: '/141'
 categories:
     - Invitations
 tags:

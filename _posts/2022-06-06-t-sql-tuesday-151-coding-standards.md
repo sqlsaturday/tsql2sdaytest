@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #151 &#8211; Coding Standards'
 date: '2022-06-06T08:35:09+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4407'
-permalink: '/?p=4407'
+permalink: '/151'
 categories:
     - Invitations
 tags:

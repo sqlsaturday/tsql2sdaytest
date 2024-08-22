@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #157 – End of Year Activity'
 date: '2022-12-06T09:42:00+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4471'
-permalink: '/?p=4471'
+permalink: '/157'
 categories:
     - Invitations
 tags:

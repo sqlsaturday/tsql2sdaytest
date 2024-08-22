@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #153 &#8211; The Conference That Changed Everything For Me
 date: '2022-08-02T08:53:32+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4436'
-permalink: '/?p=4436'
+permalink: '/153'
 categories:
     - Invitations
 tags:

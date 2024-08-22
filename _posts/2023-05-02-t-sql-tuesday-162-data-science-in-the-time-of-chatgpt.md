@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #162 &#8211; Data Science in the time of ChatGPT'
 date: '2023-05-02T09:35:49+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4527'
-permalink: '/?p=4527'
+permalink: '/162'
 categories:
     - Invitations
 tags:

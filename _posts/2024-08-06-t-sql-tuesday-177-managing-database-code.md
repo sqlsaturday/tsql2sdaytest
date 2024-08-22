@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #177: Managing Database Code'
 date: '2024-08-06T17:32:00+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4676'
-permalink: '/?p=4676'
+permalink: '/177'
 categories:
     - Invitations
 tags:

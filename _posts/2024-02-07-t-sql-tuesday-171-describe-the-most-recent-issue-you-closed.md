@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #171 &#8211; Describe the Most Recent Issue You Closed'
 date: '2024-02-07T14:55:00+00:00'
 author: way0utwest
 layout: post
-guid: 'https://tsqltuesday.com/?p=4624'
-permalink: '/?p=4624'
+permalink: '/171'
 categories:
     - Invitations
 tags:

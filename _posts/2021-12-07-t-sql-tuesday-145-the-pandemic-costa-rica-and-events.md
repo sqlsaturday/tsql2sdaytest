@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #145: The Pandemic, Costa Rica, and Events'
 date: '2021-12-07T10:14:24+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4345'
-permalink: '/?p=4345'
+permalink: '/145'
 categories:
     - Hosts
 tags:

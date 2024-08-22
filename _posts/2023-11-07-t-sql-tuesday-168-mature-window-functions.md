@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #168 – Mature Window Functions'
 date: '2023-11-07T08:47:28+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4593'
-permalink: '/?p=4593'
+permalink: '/168'
 categories:
     - Invitations
 tags:

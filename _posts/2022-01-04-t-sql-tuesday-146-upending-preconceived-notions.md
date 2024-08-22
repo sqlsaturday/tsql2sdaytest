@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #146: Upending Preconceived Notions'
 date: '2022-01-04T09:15:08+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4352'
-permalink: '/?p=4352'
+permalink: '/146'
 categories:
     - Invitations
 tags:

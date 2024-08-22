@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #165: What Do All The Database Job Titles Actually Mean?'
 date: '2023-08-02T13:14:46+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4553'
-permalink: '/?p=4553'
+permalink: '/165'
 categories:
     - Invitations
 tags:

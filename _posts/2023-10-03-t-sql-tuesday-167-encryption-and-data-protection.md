@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #167 &#8211; Encryption and Data Protection'
 date: '2023-10-03T12:49:11+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4568'
-permalink: '/?p=4568'
+permalink: '/167'
 categories:
     - Invitations
 tags:

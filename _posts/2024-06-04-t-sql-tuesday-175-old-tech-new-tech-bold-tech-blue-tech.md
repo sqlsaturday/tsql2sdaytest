@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #175: Old Tech, New Tech, Bold Tech, Blue Tech'
 date: '2024-06-04T00:41:00+00:00'
 author: way0utwest
 layout: post
-guid: 'https://tsqltuesday.com/?p=4661'
-permalink: '/?p=4661'
+permalink: '/175'
 categories:
     - Invitations
 tags:

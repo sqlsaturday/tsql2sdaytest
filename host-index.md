@@ -6,13 +6,13 @@ permalink: /host-index/
 
 A list of people hosting and their totals. If you notice anything missing, contact [@way0utwest](https://www.twitter.com/way0utwest).
 
-[Aaron Bertrand](https://sqlblog.org/) – Hosted: 1 ([099](https://sqlblog.org/2018/02/06/t-sql-tuesday-99))
+[Aaron Bertrand](https://sqlblog.org/) – Hosted: 1 ([099](/099))
 
-[Aaron Nelson](http://sqlvariant.com)– Hosted: 2 ([005,](http://sqlvariant.com/2010/04/t-sql-tuesday-005-reporting/) [031](http://tsqltuesday.com/2012/06/05/t-sql-tuesday-31-logging/))
+[Aaron Nelson](http://sqlvariant.com)– Hosted: 2 ([005,](/005) [031](/031))
 
-[Adam Machanic](http://dataeducation.com/blog/) – Hosted: 4 ([001](http://tsqltuesday.com/2009/12/01/t-sql-tuesday-001-datetime-tricks/), [002](http://tsqltuesday.com/2010/01/04/t-sql-tuesday-002-a-puzzling-situation/), [021](http://tsqltuesday.azurewebsites.net/?p=3860&preview=true), [100](http://tsqltuesday.com/?p=3718&preview=true))
+[Adam Machanic](http://dataeducation.com/blog/) – Hosted: 4 ([001](001), [002](002), [021](021), [100](/100))
 
-[Alex Yates](http://workingwithdevs.com) – Hosted: 1 ([119](http://tsqltuesday.com/2019/10/01/t-sql-tuesday-119-changing-your-mind/))
+[Alex Yates](http://workingwithdevs.com) – Hosted: 1 ([119](/119))
 
 [Allen Kinsel](http://www.allenkinsel.com/) – Hosted: 1 ([019](http://tsqltuesday.azurewebsites.net/?p=3854&preview=true))
 

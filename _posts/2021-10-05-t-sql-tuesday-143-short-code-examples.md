@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #143 – Short code examples'
 date: '2021-10-05T09:18:27+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4327'
-permalink: '/?p=4327'
+permalink: '/143'
 categories:
     - Invitations
 tags:

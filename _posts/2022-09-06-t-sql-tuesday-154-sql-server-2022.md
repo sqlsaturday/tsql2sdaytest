@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #154 &#8211; SQL Server 2022'
 date: '2022-09-06T10:18:01+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4444'
-permalink: '/?p=4444'
+permalink: '/154'
 categories:
     - Invitations
 tags:

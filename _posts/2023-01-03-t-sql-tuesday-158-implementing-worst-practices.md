@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #158, Implementing Worst Practices'
 date: '2023-01-03T10:51:04+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4481'
-permalink: '/?p=4481'
+permalink: '/158'
 categories:
     - Invitations
 tags:

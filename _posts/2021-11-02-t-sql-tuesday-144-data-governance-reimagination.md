@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #144 – Data Governance reimagination'
 date: '2021-11-02T12:31:04+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4339'
-permalink: '/?p=4339'
+permalink: '/144'
 categories:
     - Invitations
 tags:

@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #147 Invitation – Upgrade Strategies'
 date: '2022-02-03T14:51:41+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4368'
-permalink: '/?p=4368'
+permalink: '/147'
 categories:
     - Invitations
 tags:

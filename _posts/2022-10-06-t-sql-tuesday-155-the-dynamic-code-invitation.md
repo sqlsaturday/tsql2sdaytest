@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #155 &#8211; The Dynamic Code Invitation'
 date: '2022-10-06T11:14:04+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4453'
-permalink: '/?p=4453'
+permalink: '155'
 categories:
     - Invitations
 tags:

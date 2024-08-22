@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #142: Using descriptive techniques to build database envir
 date: '2021-09-07T09:37:00+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4320'
-permalink: '/?p=4320'
+permalink: '/142'
 categories:
     - Invitations
 tags:

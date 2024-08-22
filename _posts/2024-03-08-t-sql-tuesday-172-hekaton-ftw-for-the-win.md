@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #172: Hekaton FTW (For the Win)!!!'
 date: '2024-03-08T05:52:24+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4640'
-permalink: '/?p=4640'
+permalink: '/172'
 categories:
     - Invitations
 tags:

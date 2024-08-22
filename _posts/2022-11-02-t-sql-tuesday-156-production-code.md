@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #156 &#8211; Production Code'
 date: '2022-11-02T08:40:37+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4464'
-permalink: '/?p=4464'
+permalink: '/156'
 categories:
     - Invitations
 tags:
