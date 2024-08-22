@@ -12,77 +12,77 @@ A list of people hosting and their totals. If you notice anything missing, conta
 
 [Adam Machanic](http://dataeducation.com/blog/) – Hosted: 4 ([001](../001), [002](../002), [021](../021), [100](../100))
 
-[Alex Yates](http://workingwithdevs.com) – Hosted: 1 ([119](/119))
+[Alex Yates](http://workingwithdevs.com) – Hosted: 1 ([119](../119))
 
-[Allen Kinsel](http://www.allenkinsel.com/) – Hosted: 1 ([019](/019))
+[Allen Kinsel](http://www.allenkinsel.com/) – Hosted: 1 ([019](../019))
 
-[Allen White](http://sqlblog.com/blogs/allen_white/default.aspx) – Hosted: 1 ([025](/025))
+[Allen White](http://sqlblog.com/blogs/allen_white/default.aspx) – Hosted: 1 ([025](../025))
 
-[Amit Banerjee](https://troubleshootingsql.com/) – Hosted: 1 ([020](http://tsqltuesday.azurewebsites.net/2018/07/05/t-sql-tuesday-020-t-sql-best-practices/))
+[Amit Banerjee](https://troubleshootingsql.com/) – Hosted: 1 ([020](../020))
 
-[Andy Leonard](https://andyleonard.blog) – Hosted: 3 ([111](http://tsqltuesday.com/2019/02/05/t-sql-tuesday-111-what-is-your-why/), [138](http://tsqltuesday.com/2021/05/04/t-sql-tuesday-138-managing-technology-changes/), [175](https://tsqltuesday.com/2024/06/04/t-sql-tuesday-175-old-tech-new-tech-bold-tech-blue-tech/))
+[Andy Leonard](https://andyleonard.blog) – Hosted: 3 ([111](../111), [138](../138), [175](../175))
 
-[Andy M. Mallon](https://www.am2.co/) – Hosted: 1 ([083](https://www.am2.co/2016/10/t-sql-tuesday-83/))
+[Andy M. Mallon](https://www.am2.co/) – Hosted: 1 ([083](../083))
 
-[Andy Yun](https://sqlbek.wordpress.com/) – Hosted: 3 ([084](https://sqlbek.wordpress.com/2016/10/25/t-sql-tuesday-84-growing-new-speakers/), [068](https://sqlbek.wordpress.com/2015/07/06/invitation-to-t-sql-tuesday-68-just-say-no-to-defaults/), [146](http://tsqltuesday.com/2022/01/04/t-sql-tuesday-146-upending-preconceived-notions/))
+[Andy Yun](https://sqlbek.wordpress.com/) – Hosted: 3 ([068](../068), [084](../084), [146](../146))
 
-[Anthony Nocentino](https://www.centinosystems.com/blog/): Hosted: 1 ([140](http://tsqltuesday.com/2021/07/07/t-sql-tuesday-140-what-have-you-been-up-to-with-containers/))
+[Anthony Nocentino](https://www.centinosystems.com/blog/): Hosted: 1 ([140](../140))
 
-[Argenis Fernandez](http://www.0xsql.com) – Hosted: 1 ([028](http://tsqltuesday.azurewebsites.net/2012/03/07/t-sql-tuesday-028-jack-of-all-trades-or-master-of-none/))
+[Argenis Fernandez](http://www.0xsql.com) – Hosted: 1 ([028](../028))
 
-[Arun Sirpal](https://blobeater.blog/) – Hosted: 1 ([098](https://blobeater.blog/2018/01/02/t-sql-tuesday-98-your-technical-challenges-conquered/))
+[Arun Sirpal](https://blobeater.blog/) – Hosted: 1 ([098](../098))
 
-[Ben Weissman](https://bweissman.de/) – Hosted: 1 ([139](http://tsqltuesday.com/2021/06/01/t-sql-tuesday-139-the-data-world-is-hybrid/))
+[Ben Weissman](https://bweissman.de/) – Hosted: 1 ([139](../139))
 
-[Bert Wagner](https://bertwagner.com/) – Hosted: 1 ([104](http://tsqltuesday.com/2018/07/03/t-sql-tuesday-104-code-you-would-hate-to-live-without/))
+[Bert Wagner](https://bertwagner.com/) – Hosted: 1 ([104](../104))
 
-<span class="byline"><span class="author vcard">[Björn Peters](https://www.sql-aus-hamburg.de) – Hosted: 1 ([103](http://tsqltuesday.com/2018/06/05/t-sql-tuesday-103-azure-sql-database-challenges-pros-and-cons-issues/))</span></span>
+[Björn Peters](https://www.sql-aus-hamburg.de) – Hosted: 1 ([103](../103))
 
-[Bob Pusteri](http://www.bobpusateri.com/) – Hosted: 3 ([018](https://www.bobpusateri.com/archive/2011/04/invitation-to-t-sql-tuesday-18-ctes/), [041](http://www.bobpusateri.com/archive/2013/04/invitation-to-t-sql-tuesday-41-presenting-and-loving-it/), [076](http://www.bobpusateri.com/archive/2016/02/invitation-to-t-sql-tuesday-76-text-searchingprocessing/))
+[Bob Pusteri](http://www.bobpusateri.com/) – Hosted: 3 ([018](../018), [041](../041), [076](../076))
 
-[Boris Hristov](http://borishristov.com/) – Hosted: 1 ([054](http://borishristov.com/blog/t-sql-tuesday-54-interview-invitation/))
+[Boris Hristov](http://borishristov.com/) – Hosted: 1 ([054](../054))
 
-[Brad Shulz](http://bradsruminations.blogspot.com/) – Hosted: 1 ([023](http://tsqltuesday.azurewebsites.net/2011/10/31/t-sql-tuesday-024-prox-n-funx/))
+[Brad Shulz](http://bradsruminations.blogspot.com/) – Hosted: 1 ([023](../023))
 
-[Bradley Balls](http://www.sqlballs.com/) – Hosted: 2 [(044](http://www.sqlservercentral.com/blogs/sqlballs/2013/07/02/t-sql-tuesday-44-the-second-chance/), [074](http://www.sqlballs.com/2015/12/t-sql-tuesday-73-invitation-naughty-or.html))
+[Bradley Balls](http://www.sqlballs.com/) – Hosted: 2 [(044](../044), [074](../074))
 
-[Brent Ozar ](https://www.brentozar.com/archive/author/brento/)– Hosted: 3 ([086](https://www.brentozar.com/archive/2017/01/announcing-t-sql-tuesday-87-sql-server-bugs-enhancement-requests/), [136](http://tsqltuesday.com/2021/03/02/t-sql-tuesday-136-blog-about-your-favorite-data-type-or-least-favorite/), [171](https://tsqltuesday.com/2024/02/07/t-sql-tuesday-171-describe-the-most-recent-issue-you-closed/))
+[Brent Ozar ](https://www.brentozar.com/archive/author/brento/)– Hosted: 3 ([086](../086), [136](../086), [171](../171))
 
-[Camila Henrique](https://camilahenrique.com/) – Hosted: 1 ([149](http://tsqltuesday.com/2022/04/05/t-sql-tuesday-149-blog-about-t-sql-advice-youd-give-to-your-younger-self/))
+[Camila Henrique](https://camilahenrique.com/) – Hosted: 1 ([149](../149))
 
-[Catherine Wilhelmsen](https://www.cathrinewilhelmsen.net) – Hosted: 1 ([066](https://www.cathrinewilhelmsen.net/2015/05/05/invitation-to-t-sql-tuesday-66-monitoring/))
+[Catherine Wilhelmsen](https://www.cathrinewilhelmsen.net) – Hosted: 1 ([066](../066))
 
-[Chris Shaw](https://chrisshaw.wordpress.com/) – Hosted: 1 ([030](http://tsqltuesday.azurewebsites.net/2012/04/30/t-sql-tuesday-030-a-dbas-ethics/))
+[Chris Shaw](https://chrisshaw.wordpress.com/) – Hosted: 1 ([030](../030))
 
-[Chris Yates](http://www.toadworld.com/members/chris-yates) – Hosted: 3 ([036](http://tsqltuesday.com/2012/11/05/t-sql-tuesday-036/), [060](https://chrisyatessql.wordpress.com/2014/11/11/t-sql-tuesday-60-something-new-learned-2/), [080](http://www.toadworld.com/platforms/sql-server/b/weblog/archive/2016/07/06/t-sql-tuesday-080))
+[Chris Yates](http://www.toadworld.com/members/chris-yates) – Hosted: 3 ([036](../036), [060](../060), [080](../080))
 
-[Damien Jones](https://amazonwebshark.com/) – Hosted: 1 ([160](http://tsqltuesday.com/2023/03/07/t-sql-tuesday-160-microsoft-openai-wishlist/))
+[Damien Jones](https://amazonwebshark.com/) – Hosted: 1 ([160](../160))
 
-David Bryce Howard – Hosted: 1 ([026](http://tsqltuesday.azurewebsites.net/2012/01/02/t-sql-tuesday-026-second-chances/))
+David Bryce Howard – Hosted: 1 ([026](../026))
 
-[Deborah Melkin](https://debthedba.wordpress.com/) – Hosted: 1 ([152](http://tsqltuesday.com/2022/07/05/t-sql-tuesday-152-it-depends/))
+[Deborah Melkin](https://debthedba.wordpress.com/) – Hosted: 1 ([152](../152))
 
-[Derik Hammer](https://www.sqlhammer.com/) – Hosted: 1 ([095](http://tsqltuesday.com/2017/10/04/t-sql-tuesday-095-big-data/))
+[Derik Hammer](https://www.sqlhammer.com/) – Hosted: 1 ([095](../095))
 
-[Dev Nambi](http://devnambi.com) – Hosted: 1 ([056](http://devnambi.com/2014/tsql-tuesday/))
+[Dev Nambi](http://devnambi.com) – Hosted: 1 ([056](../056))
 
-[Elizabeth Noble](https://sqlzelda.wordpress.com/) – Hosted: 1 ([130](http://tsqltuesday.com/2020/09/01/t-sql-tuesday-130-automate-your-stress-away/))
+[Elizabeth Noble](https://sqlzelda.wordpress.com/) – Hosted: 1 ([130](../130))
 
-[Erik Darling](https://erikdarlingdata.com/): Hosted: 1 ([164](http://tsqltuesday.com/2023/07/10/t-sql-tuesday-164-code-that-made-you-feel-a-way/))
+[Erik Darling](https://erikdarlingdata.com/): Hosted: 1 ([164](../164))
 
-[Erin Stellato](http://erinstellato.com) – Hosted: 1 ([032](http://tsqltuesday.com/2012/07/08/t-sql-tuesday-32-a-day-in-the-life/))
+[Erin Stellato](http://erinstellato.com) – Hosted: 1 ([032](../032))
 
-[Ewald Cress](https://sqlonice.com) – Hosted: 1 ([096](http://tsqltuesday.com/2017/11/08/t-sql-tuesday-096-folks-who-have-made-a-difference/))
+[Ewald Cress](https://sqlonice.com) – Hosted: 1 ([096](../096))
 
-[Frank Geisler](https://gds-business-intelligence.de/category/sql-server/) – Hosted: 1 ([142](http://tsqltuesday.com/2021/09/07/t-sql-tuesday-142-using-descriptive-techniques-to-build-database-environments/))
+[Frank Geisler](https://gds-business-intelligence.de/category/sql-server/) – Hosted: 1 ([142](../142))
 
-[Garry Bargsley](https://garrybargsley.com) – Hosted: 2 ([110](http://tsqltuesday.com/2019/01/01/t-sql-tuesday-110-automate-all-the-things/), [157](http://tsqltuesday.com/2022/12/06/t-sql-tuesday-157-end-of-year-activity/))
+[Garry Bargsley](https://garrybargsley.com) – Hosted: 2 ([110](../110), [157](../157))
 
-[Gethyn Ellis](https://www.gethynellis.com/blog) – Hosted: 1 ([163](http://tsqltuesday.com/2023/06/14/t-sql-tuesday-163-invitation-what-is-the-best-piece-of-career-advice-you-ever-received/))
+[Gethyn Ellis](https://www.gethynellis.com/blog) – Hosted: 1 ([163](../163))
 
-[Glenn Berry](https://glennsqlperformance.com/) – Hosted: 1 ([126,](http://tsqltuesday.com/2020/05/05/t-sql-tuesday-126-foldinghome/) [154](http://tsqltuesday.com/2022/09/06/t-sql-tuesday-154-sql-server-2022/))
+[Glenn Berry](https://glennsqlperformance.com/) – Hosted: 1 ([126,](../154) [154](../154))
 
-[Grant Fritchey](http://www.scarydba.com) – Hosted: 2 ([091](http://tsqltuesday.com/2017/06/06/t-sql-tuesday-091-databases-and-devops/), [166](http://tsqltuesday.com/2023/09/06/t-sql-tuesday-166-why-not-extended-events/))
+[Grant Fritchey](http://www.scarydba.com) – Hosted: 2 ([091](../091), [166](../166))
 
 [Hamish Watson](https://hybriddbablog.com/) – Hosted: 1 ([125](http://tsqltuesday.com/2020/04/07/t-sql-tuesday-125-unit-testing-databases-we-need-to-do-this/))
 
