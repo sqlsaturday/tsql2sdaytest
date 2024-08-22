@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #061 &#8211; Giving Back'
 date: '2014-12-12T16:40:16+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1981'
-permalink: '/?p=1981'
+permalink: '/061'
 categories:
     - Invitations
 tags:

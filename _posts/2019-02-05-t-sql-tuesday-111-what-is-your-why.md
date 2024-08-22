@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #111 &#8211; What is Your &#8220;Why?&#8221;'
 date: '2019-02-05T06:14:46+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3941'
-permalink: '/?p=3941'
+permalink: '/111'
 categories:
     - Invitations
 tags:

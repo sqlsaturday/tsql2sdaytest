@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #122 – Imposter Syndrome'
 date: '2020-01-07T09:32:01+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4079'
-permalink: '/?p=4079'
+permalink: '/122'
 categories:
     - Invitations
 tags:

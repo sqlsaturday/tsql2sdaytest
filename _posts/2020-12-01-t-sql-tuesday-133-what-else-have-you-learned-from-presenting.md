@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #133: What (Else) Have You Learned from Presenting?'
 date: '2020-12-01T11:35:27+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4209'
-permalink: '/?p=4209'
+permalink: '/133'
 categories:
     - Invitations
 tags:

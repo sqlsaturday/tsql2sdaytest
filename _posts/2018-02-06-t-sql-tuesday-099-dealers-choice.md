@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #099 &#8211; Dealer&#8217;s Choice'
 date: '2018-02-06T14:59:26+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3683'
-permalink: '/?p=3683'
+permalink: '/099'
 categories:
     - Invitations
 tags:

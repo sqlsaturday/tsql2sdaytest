@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #131: Data Analogies, or: Explain Databases Like I’m Fiv
 date: '2020-10-05T16:21:50+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4175'
-permalink: '/?p=4175'
+permalink: '/131'
 categories:
     - Invitations
 tags:

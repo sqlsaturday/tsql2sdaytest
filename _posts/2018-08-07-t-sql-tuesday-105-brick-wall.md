@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #105 &#8211; Brick Wall'
 date: '2018-08-07T15:40:53+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3791'
-permalink: '/?p=3791'
+permalink: '/105'
 categories:
     - Invitations
 tags:

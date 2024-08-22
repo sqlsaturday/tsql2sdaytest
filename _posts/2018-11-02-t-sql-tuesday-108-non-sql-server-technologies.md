@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #108 &#8211; Non SQL Server Technologies'
 date: '2018-11-02T20:18:53+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3827'
-permalink: '/?p=3827'
+permalink: '/108'
 categories:
     - Invitations
 tags:

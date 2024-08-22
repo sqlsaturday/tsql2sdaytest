@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #081 &#8211; Sharpen Something'
 date: '2016-07-27T21:44:42+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1381'
-permalink: '/?p=1381'
+permalink: '/081'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2016'
     - career

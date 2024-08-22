@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #86 – SQL Server Bugs and Enhancement'
 date: '2017-01-03T21:29:36+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1241'
-permalink: '/?p=1241'
+permalink: '/086'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2017'
     - bugs

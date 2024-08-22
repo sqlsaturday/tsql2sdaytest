@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #107 &#8211; Death March'
 date: '2018-10-02T20:15:33+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3815'
-permalink: '/?p=3815'
+permalink: '/107'
 categories:
     - Invitations
 tags:

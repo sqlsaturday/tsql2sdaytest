@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #070 – The Enterprise'
 date: '2015-09-01T22:41:36+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1671'
-permalink: '/?p=1671'
+permalink: '/070'
 categories:
     - Uncategorized
 tags:

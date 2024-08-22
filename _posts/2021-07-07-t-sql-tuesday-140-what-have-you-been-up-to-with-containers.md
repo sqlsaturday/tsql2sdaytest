@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #140: What have you been up to with containers?'
 date: '2021-07-07T08:42:46+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4292'
-permalink: '/?p=4292'
+permalink: '/140'
 categories:
     - Invitations
 tags:

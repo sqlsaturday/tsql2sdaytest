@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #128 &#8211; Learn From Others'
 date: '2020-07-07T08:40:40+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4140'
-permalink: '/?p=4140'
+permalink: '/128'
 categories:
     - Invitations
 tags:

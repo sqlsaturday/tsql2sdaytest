@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #055 &#8211; SQL Server 2014, The Good, The Bad, and The U
 date: '2014-06-03T16:57:06+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2161'
-permalink: '/?p=2161'
+permalink: '/055'
 categories:
     - Invitations
 tags:

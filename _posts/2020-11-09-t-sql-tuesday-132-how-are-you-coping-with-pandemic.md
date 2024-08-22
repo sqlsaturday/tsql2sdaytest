@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #132: How Are You Coping with Pandemic?'
 date: '2020-11-09T13:21:07+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4198'
-permalink: '/?p=4198'
+permalink: '/132'
 categories:
     - Invitations
 tags:

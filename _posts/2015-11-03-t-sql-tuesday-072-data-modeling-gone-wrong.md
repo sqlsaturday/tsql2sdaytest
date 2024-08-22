@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #072 &#8211; Data Modeling Gone Wrong'
 date: '2015-11-03T22:35:23+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1611'
-permalink: '/?p=1611'
+permalink: '/072'
 categories:
     - Uncategorized
 tags:

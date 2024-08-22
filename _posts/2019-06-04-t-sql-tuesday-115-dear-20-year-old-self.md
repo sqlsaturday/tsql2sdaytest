@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #115 &#8211; Dear 20 Year Old Self'
 date: '2019-06-04T21:56:52+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3983'
-permalink: '/?p=3983'
+permalink: '/115'
 categories:
     - Invitations
 tags:

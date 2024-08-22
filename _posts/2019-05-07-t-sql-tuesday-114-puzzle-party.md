@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #114 – Puzzle Party'
 date: '2019-05-07T19:42:44+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3974'
-permalink: '/?p=3974'
+permalink: '/114'
 categories:
     - Invitations
 tags:

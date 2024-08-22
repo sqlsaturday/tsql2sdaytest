@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #091 &#8211; Databases and DevOps'
 date: '2017-06-06T14:24:38+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2943'
-permalink: '/?p=2943'
+permalink: '/091'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2017'
     - 'database development'

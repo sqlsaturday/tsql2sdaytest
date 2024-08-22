@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #120 – What were you thinking?'
 date: '2019-11-05T15:53:04+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4060'
-permalink: '/?p=4065'
+permalink: '/120'
 categories:
     - Invitations
 tags:

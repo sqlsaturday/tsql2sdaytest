@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #104 &#8211; Code You Would Hate To Live Without'
 date: '2018-07-03T22:48:56+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3754'
-permalink: '/?p=3754'
+permalink: '/104'
 categories:
     - Invitations
 tags:

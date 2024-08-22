@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #066 &#8211; Monitoring'
 date: '2015-05-05T16:22:46+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1831'
-permalink: '/?p=1831'
+permalink: '/066'
 categories:
     - Uncategorized
 tags:

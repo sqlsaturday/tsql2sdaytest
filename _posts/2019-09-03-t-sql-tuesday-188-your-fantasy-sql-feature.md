@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #118 &#8211; Your Fantasy SQL Feature'
 date: '2019-09-03T04:36:27+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4027'
-permalink: '/?p=4027'
+permalink: '/118'
 categories:
     - Invitations
 tags:

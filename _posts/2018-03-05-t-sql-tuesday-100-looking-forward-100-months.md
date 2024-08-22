@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #100 &#8211; Looking Forward 100 Months'
 date: '2018-03-05T22:12:50+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3718'
-permalink: '/?p=3718'
+permalink: '/100'
 categories:
     - Invitations
 tags:
@@ -15,7 +14,7 @@ tags:
 
 [Invitation ](http://dataeducation.com/invitation-t-sql-tuesday-100-looking-forward-100-months/)and [roundup](http://dataeducation.com/looking-forward-100-months-t-sql-tuesday-100-the-roundup/) from T-SQL Tuesday founder, [Adam Machanic](http://dataeducation.com/blog/).
 
-## **<u>Let’s look forward…</u>**
+## Let’s look forward…
 
 Anyone who has been in IT for more than 10 minutes knows how the industry works. IT loves its trends, but things tend to be very cyclical. Our current crop of “cloud” technologies are nothing new at the heart of things. The cloud, a wise person once said, is merely someone else’s server. And we’ve seen prior iterations of these same hardware sharing ideas going [all the way back to the 1960s](https://en.wikipedia.org/wiki/Time-sharing). Machine Learning, likewise, has been around in other guises for several years. Columnstore ideas are decades old even if they’re new-ish in the Microsoft space, and even in-memory has a rather deeper history than many realize. None of these “new” technologies about which we’re so excited are *actually* new, even if they’re newer (and hopefully better) implementations.
 

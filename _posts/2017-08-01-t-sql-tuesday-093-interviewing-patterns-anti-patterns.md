@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #093 &#8211; Interviewing Patterns &#038; Anti-Patterns'
 date: '2017-08-01T18:41:14+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3123'
-permalink: '/?p=3123'
+permalink: '/093'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2017'
     - 'career improvement'

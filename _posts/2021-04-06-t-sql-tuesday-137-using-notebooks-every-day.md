@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #137: Using Notebooks Every Day'
 date: '2021-04-06T12:04:57+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4260'
-permalink: '/?p=4260'
+permalink: '/137'
 categories:
     - Invitations
 tags:

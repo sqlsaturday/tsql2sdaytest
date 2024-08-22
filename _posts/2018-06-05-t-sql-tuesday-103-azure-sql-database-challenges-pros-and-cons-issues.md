@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #103 &#8211; Azure SQL Database – Challenges, Pros and C
 date: '2018-06-05T18:52:29+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3743'
-permalink: '/?p=3743'
+permalink: '103'
 categories:
     - Invitations
 tags:

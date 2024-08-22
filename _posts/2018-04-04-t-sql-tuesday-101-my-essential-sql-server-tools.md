@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #101 &#8211; My Essential SQL Server Tools'
 date: '2018-04-04T16:14:43+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3725'
-permalink: '/?p=3725'
+permalink: '/101'
 categories:
     - Invitations
 tags:

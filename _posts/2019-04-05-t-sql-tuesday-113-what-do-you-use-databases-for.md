@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #113 &#8211; What Do You Use Databases For?'
 date: '2019-04-05T12:42:37+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3964'
-permalink: '/?p=3964'
+permalink: '/113'
 categories:
     - Invitations
 tags:

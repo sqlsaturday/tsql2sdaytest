@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #078 &#8211; Learn Something New'
 date: '2016-04-18T21:52:08+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1461'
-permalink: '/?p=1461'
+permalink: '/078'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2016'
     - career

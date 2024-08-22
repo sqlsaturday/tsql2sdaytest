@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #102 &#8211; Giving Back'
 date: '2018-05-02T16:50:22+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3735'
-permalink: '/?p=3735'
+permalink: '/102'
 categories:
     - Invitations
 tags:

@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #082 &#8211; To the Cloud… And Beyond!'
 date: '2016-09-06T21:40:59+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1361'
-permalink: '/?p=1361'
+permalink: '/082'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2016'
     - cloud

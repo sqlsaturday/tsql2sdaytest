@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #064 &#8211; Calling All Tuners and Gearheads'
 date: '2015-03-02T16:27:00+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1861'
-permalink: '/?p=1861'
+permalink: '/064'
 categories:
     - Uncategorized
 tags:

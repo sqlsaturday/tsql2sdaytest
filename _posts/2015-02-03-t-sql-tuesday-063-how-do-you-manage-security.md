@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #063 &#8211; How Do You Manage Security?'
 date: '2015-02-03T16:30:34+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1901'
-permalink: '/?p=1901'
+permalink: '/063'
 categories:
     - Invitations
 tags:

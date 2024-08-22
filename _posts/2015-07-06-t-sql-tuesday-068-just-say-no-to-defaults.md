@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #068 &#8211; Just Say No to Defaults'
 date: '2015-07-06T22:45:53+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1721'
-permalink: '/?p=1721'
+permalink: '/068'
 categories:
     - Uncategorized
 tags:

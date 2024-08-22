@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #121: Gifts received for this year'
 date: '2019-12-10T12:21:43+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4073'
-permalink: '/?p=4073'
+permalink: '/121'
 categories:
     - Invitations
 tags:

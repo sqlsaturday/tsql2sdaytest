@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #139: The data world is hybrid'
 date: '2021-06-01T07:37:48+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4284'
-permalink: '/?p=4284'
+permalink: '/139'
 categories:
     - Invitations
 tags:

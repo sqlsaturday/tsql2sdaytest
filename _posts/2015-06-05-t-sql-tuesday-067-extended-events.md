@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #067 – Extended Events'
 date: '2015-06-05T22:48:57+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1751'
-permalink: '/?p=1751'
+permalink: '/067'
 categories:
     - Uncategorized
 tags:

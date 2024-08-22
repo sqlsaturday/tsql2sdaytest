@@ -4,8 +4,7 @@ title: 'TSQL Tuesday #127 Invite – Non SQL Tips and tricks'
 date: '2020-06-02T08:21:53+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4131'
-permalink: '/?p=4131'
+permalink: '/127'
 categories:
     - Invitations
 tags:

@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #116 – SQL on Linux'
 date: '2019-07-02T14:06:28+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3990'
-permalink: '/?p=3990'
+permalink: '/116'
 categories:
     - Invitations
 tags:

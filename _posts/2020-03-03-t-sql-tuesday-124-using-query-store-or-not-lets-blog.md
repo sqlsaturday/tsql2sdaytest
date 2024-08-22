@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #124 – Using Query Store or Not Let’s Blog'
 date: '2020-03-03T10:09:54+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4097'
-permalink: '/?p=4097'
+permalink: '/124'
 categories:
     - Invitations
 tags:

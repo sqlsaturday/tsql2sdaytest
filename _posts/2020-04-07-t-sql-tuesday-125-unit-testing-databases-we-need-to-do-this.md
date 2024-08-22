@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #125 –  Unit testing databases – we need to do this!!'
 date: '2020-04-07T10:30:19+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4109'
-permalink: '/?p=4109'
+permalink: '/125'
 categories:
     - Invitations
 tags:

@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #075 &#8211; Power BI'
 date: '2016-02-08T22:27:02+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1551'
-permalink: '/?p=1551'
+permalink: '/075'
 categories:
     - Uncategorized
 tags:
