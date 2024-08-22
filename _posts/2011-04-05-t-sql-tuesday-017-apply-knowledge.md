@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #017 &#8211; APPLY Knowledge'
 date: '2011-04-05T15:59:03+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3849'
-permalink: '/?p=3849'
+permalink: '/3849'
 categories:
     - Invitations
 tags:

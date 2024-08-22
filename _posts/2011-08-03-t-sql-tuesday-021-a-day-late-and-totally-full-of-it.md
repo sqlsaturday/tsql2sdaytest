@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #021 &#8211; A Day Late and Totally Full Of It.'
 date: '2011-08-03T16:10:15+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3860'
-permalink: '/?p=3860'
+permalink: '/3860'
 categories:
     - Invitations
 tags:

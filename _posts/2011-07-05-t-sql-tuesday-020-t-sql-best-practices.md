@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #020 &#8211; T-SQL Best Practices'
 date: '2011-07-05T08:07:02+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3857'
-permalink: '/?p=3857'
+permalink: '/3857'
 categories:
     - Invitations
 tags:

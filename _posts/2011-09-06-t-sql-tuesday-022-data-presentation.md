@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #022 &#8211; Data Presentation'
 date: '2011-09-06T16:17:06+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3865'
-permalink: '/?p=3865'
+permalink: '/3865'
 categories:
     - Invitations
 tags:

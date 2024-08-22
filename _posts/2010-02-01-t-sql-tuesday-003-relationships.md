@@ -1,10 +1,10 @@
 ---
-id: 861
+id: 3
 title: 'T-SQL TUESDAY #003: RELATIONSHIPS'
 date: '2010-02-01T20:08:28+00:00'
 author: way0utwest
 layout: post
-permalink: '/861'
+permalink: '/003'
 categories:
     - Uncategorized
 tags:

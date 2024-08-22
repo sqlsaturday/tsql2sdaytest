@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #016 &#8211; Aggregate Functions'
 date: '2011-02-26T15:54:38+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3847'
-permalink: '/?p=3847'
+permalink: '/3847'
 categories:
     - Invitations
 tags:
