@@ -14,9 +14,9 @@ A list of people hosting and their totals. If you notice anything missing, conta
 
 [Alex Yates](http://workingwithdevs.com) – Hosted: 1 ([119](/119))
 
-[Allen Kinsel](http://www.allenkinsel.com/) – Hosted: 1 ([019](http://tsqltuesday.azurewebsites.net/?p=3854&preview=true))
+[Allen Kinsel](http://www.allenkinsel.com/) – Hosted: 1 ([019](/019))
 
-[Allen White](http://sqlblog.com/blogs/allen_white/default.aspx) – Hosted: 1 ([025](http://tsqltuesday.azurewebsites.net/2011/12/05/t-sql-tuesday-025-invitation-to-share-your-tricks/))
+[Allen White](http://sqlblog.com/blogs/allen_white/default.aspx) – Hosted: 1 ([025](/025))
 
 [Amit Banerjee](https://troubleshootingsql.com/) – Hosted: 1 ([020](http://tsqltuesday.azurewebsites.net/2018/07/05/t-sql-tuesday-020-t-sql-best-practices/))
 
