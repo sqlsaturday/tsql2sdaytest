@@ -46,15 +46,15 @@ round-avatar: false
 social-network-links:
   email: "admin@sqlsaturday.com"
   facebook: 
-  github: "sqlsaturday/sqlsatwebsite"
-  twitter: SQLSatOfficial
+  github: "sqlsaturday/tsqltuesdaytest"
+  twitter: tsql2sday
 #  medium: yourname
 #  reddit: yourname
-  linkedin: "groups/13945573/"
+  linkedin: 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: SQLSaturday
+  instagram: 
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
