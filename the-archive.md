@@ -20,5 +20,5 @@ This is the archive of all T-SQL Tuesday invitations.
 - [2013](http://tsqltuesday.com/tag/2013/)
 - [2012](http://tsqltuesday.com/tag/2012/)
 - [2011](http://tsqltuesday.com/tag/2011/)
-- [2010](http://tsqltuesday.com/tag/2010/)
-- [2009](http://tsqltuesday.com/tag/2009/)
+- [2010](/tags/#2010/)
+- [2009](/tags/#2009/)
