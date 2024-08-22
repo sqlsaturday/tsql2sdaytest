@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #059 &#8211; My Hero'
 date: '2014-10-07T16:45:23+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2041'
-permalink: '/?p=2041'
+permalink: '/059'
 categories:
     - Invitations
 tags:

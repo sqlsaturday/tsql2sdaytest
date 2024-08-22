@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #090 &#8211; Shipping Database Changes'
 date: '2017-05-02T07:48:49+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2881'
-permalink: '/?p=2881'
+permalink: '/090'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2017'
     - 'database development'

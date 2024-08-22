@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #096: Folks Who Have Made a Difference'
 date: '2017-11-08T01:19:43+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3393'
-permalink: '/?p=3393'
+permalink: '/096'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2017'
     - 'career development'

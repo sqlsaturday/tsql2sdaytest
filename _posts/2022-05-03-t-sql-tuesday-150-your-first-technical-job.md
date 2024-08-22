@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #150 &#8211; Your First Technical Job'
 date: '2022-05-03T10:31:46+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4399'
-permalink: '/?p=4399'
+permalink: '/150'
 categories:
     - Invitations
 tags:

@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #052 &#8211; Argue Against a Popular Opinion'
 date: '2014-03-03T17:14:22+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2291'
-permalink: '/?p=2291'
+permalink: '/052'
 categories:
     - Invitations
 tags:

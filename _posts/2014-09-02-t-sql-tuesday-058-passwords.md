@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #058 &#8211; Passwords'
 date: '2014-09-02T16:47:27+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2061'
-permalink: '/?p=2061'
+permalink: '/058'
 categories:
     - Invitations
 tags:

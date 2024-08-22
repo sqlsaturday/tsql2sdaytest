@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #069 – Encryption'
 date: '2015-08-25T22:45:48+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1691'
-permalink: '/?p=1691'
+permalink: '/069'
 categories:
     - Uncategorized
 tags:

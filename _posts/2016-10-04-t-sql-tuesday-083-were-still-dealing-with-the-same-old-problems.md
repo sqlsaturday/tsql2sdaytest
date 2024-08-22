@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #083 &#8211; We’re Still Dealing with the Same Old Probl
 date: '2016-10-04T21:38:14+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1331'
-permalink: '/?p=1331'
+permalink: '/083'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2016'
 ---

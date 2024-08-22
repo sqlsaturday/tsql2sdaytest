@@ -4,8 +4,7 @@ title: 'T-SQL TUESDAY #134: – GIVE ME A BREAK!'
 date: '2021-01-05T09:19:06+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4227'
-permalink: '/?p=4227'
+permalink: '/134'
 categories:
     - Invitations
 tags:

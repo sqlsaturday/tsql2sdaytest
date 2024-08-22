@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #085 &#8211; Backup and Recovery'
 date: '2016-12-06T21:31:59+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1271'
-permalink: '/?p=1271'
+permalink: '/085'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2016'
     - backup

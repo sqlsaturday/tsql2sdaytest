@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #017 &#8211; APPLY Knowledge'
 date: '2011-04-05T15:59:03+00:00'
 author: way0utwest
 layout: post
-permalink: '/3849'
+permalink: '/017'
 categories:
     - Invitations
 tags:

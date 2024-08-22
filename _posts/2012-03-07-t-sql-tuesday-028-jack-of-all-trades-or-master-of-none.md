@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #028 &#8211; Jack of All Trades or Master of None'
 date: '2012-03-07T16:38:21+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3890'
-permalink: '/?p=3890'
+permalink: '/028'
 categories:
     - Invitations
 tags:

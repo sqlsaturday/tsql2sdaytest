@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #084 &#8211; Growing New Speakers'
 date: '2016-10-25T21:34:30+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1301'
-permalink: '/?p=1301'
+permalink: '/084'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2016'
     - career

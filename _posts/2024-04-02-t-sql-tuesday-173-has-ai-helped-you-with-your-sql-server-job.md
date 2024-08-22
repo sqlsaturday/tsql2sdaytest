@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #173 &#8211; Has AI Helped You with Your SQL Server Job?'
 date: '2024-04-02T07:56:59+00:00'
 author: way0utwest
 layout: post
-guid: 'https://tsqltuesday.com/?p=4648'
-permalink: '/?p=4648'
+permalink: '/173'
 categories:
     - Invitations
 tags:

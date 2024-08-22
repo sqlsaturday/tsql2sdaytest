@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #170 – Learning from Abandoned Projects'
 date: '2024-01-02T13:41:23+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4613'
-permalink: '/?p=4613'
+permalink: '/170'
 categories:
     - Invitations
 tags:

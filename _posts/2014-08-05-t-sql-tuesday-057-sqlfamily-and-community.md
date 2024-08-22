@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #057 &#8211; SQLFamily and Community'
 date: '2014-08-05T16:50:54+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2111'
-permalink: '/?p=2111'
+permalink: '/057'
 categories:
     - Invitations
 tags:

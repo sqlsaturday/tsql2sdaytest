@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #130 – Automate Your Stress Away'
 date: '2020-09-01T09:18:21+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4160'
-permalink: '/?p=4160'
+permalink: '/130'
 categories:
     - Invitations
 tags:

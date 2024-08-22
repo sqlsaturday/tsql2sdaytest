@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #31 – Logging'
 date: '2012-06-05T11:55:55+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3924'
-permalink: '/?p=3924'
+permalink: '/031'
 categories:
     - Invitations
 tags:

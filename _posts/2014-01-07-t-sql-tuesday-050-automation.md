@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #050 &#8211; Automation'
 date: '2014-01-07T17:19:10+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2341'
-permalink: '/?p=2341'
+permalink: '/050'
 categories:
     - Invitations
 tags:

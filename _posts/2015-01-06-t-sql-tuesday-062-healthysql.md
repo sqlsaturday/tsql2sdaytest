@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #062 &#8211; HealthySQL'
 date: '2015-01-06T16:37:14+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1961'
-permalink: '/?p=1961'
+permalink: '/062'
 categories:
     - Invitations
 tags:

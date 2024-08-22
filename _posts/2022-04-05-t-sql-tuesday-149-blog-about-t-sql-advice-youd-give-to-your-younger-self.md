@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #149 &#8211; Blog about T-SQL Advice you’d give to your 
 date: '2022-04-05T08:13:08+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4389'
-permalink: '/?p=4389'
+permalink: '/149'
 categories:
     - Invitations
 tags:

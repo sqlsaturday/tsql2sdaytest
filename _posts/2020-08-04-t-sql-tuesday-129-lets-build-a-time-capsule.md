@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #129 &#8211; Let&#8217;s Build a Time Capsule'
 date: '2020-08-04T09:40:10+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4148'
-permalink: '/?p=4148'
+permalink: '/129'
 categories:
     - Invitations
 tags:

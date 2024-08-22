@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #138: Managing Technology Changes'
 date: '2021-05-04T10:01:52+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4273'
-permalink: '/?p=4273'
+permalink: '/138'
 categories:
     - Invitations
 tags:

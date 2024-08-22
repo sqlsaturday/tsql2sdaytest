@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #126 – Folding@Home'
 date: '2020-05-05T09:28:04+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4117'
-permalink: '/?p=4117'
+permalink: '/126'
 categories:
     - Invitations
 tags:

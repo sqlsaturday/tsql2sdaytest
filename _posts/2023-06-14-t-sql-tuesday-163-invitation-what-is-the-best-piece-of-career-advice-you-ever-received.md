@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #163 Invitation – What is the best piece of Career Advic
 date: '2023-06-14T02:26:33+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4538'
-permalink: '/?p=4538'
+permalink: '/163'
 categories:
     - Invitations
 tags:

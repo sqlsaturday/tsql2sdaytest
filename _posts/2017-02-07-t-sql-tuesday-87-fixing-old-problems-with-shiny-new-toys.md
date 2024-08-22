@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #87 –Fixing Old Problems with Shiny New Toys'
 date: '2017-02-07T21:27:19+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1221'
-permalink: '/?p=1221'
+permalink: '087'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2017'
 ---

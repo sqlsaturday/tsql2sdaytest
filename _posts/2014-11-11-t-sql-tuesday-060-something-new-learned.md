@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #060 &#8211; Something New Learned'
 date: '2014-11-11T16:42:53+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2011'
-permalink: '/?p=2011'
+permalink: '/060'
 categories:
     - Invitations
 tags:

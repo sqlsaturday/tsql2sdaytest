@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #048 &#8211; Cloud Atlas'
 date: '2013-11-05T17:25:46+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2391'
-permalink: '/?p=2391'
+permalink: '/048'
 categories:
     - Invitations
 tags:

@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #109: Influence Somebody'
 date: '2018-12-07T15:01:04+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3839'
-permalink: '/?p=3839'
+permalink: '/109'
 categories:
     - Invitations
 tags:

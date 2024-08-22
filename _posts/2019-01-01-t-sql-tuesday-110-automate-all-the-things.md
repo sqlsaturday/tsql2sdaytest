@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #110 &#8211; Automate All the Things'
 date: '2019-01-01T21:18:06+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3933'
-permalink: '/?p=3933'
+permalink: '/110'
 categories:
     - Invitations
 tags:

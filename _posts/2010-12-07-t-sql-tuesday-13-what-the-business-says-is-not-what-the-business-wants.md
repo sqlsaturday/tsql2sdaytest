@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #13 – What the Business Says Is Not What the Business Wa
 date: '2010-12-07T21:21:38+00:00'
 author: way0utwest
 layout: post
-permalink: '/1161'
+permalink: '/013'
 categories:
     - Uncategorized
 tags:

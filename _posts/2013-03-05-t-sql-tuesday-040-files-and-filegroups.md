@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #040 &#8211; Files and Filegroups'
 date: '2013-03-05T17:47:13+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2591'
-permalink: '/?p=2591'
+permalink: '/040'
 categories:
     - Invitations
 tags:

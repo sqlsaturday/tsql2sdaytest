@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #077 &#8211; Favorite SQL Server Feature'
 date: '2016-04-05T21:54:53+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1491'
-permalink: '/?p=1491'
+permalink: '/077'
 categories:
     - Uncategorized
 tags:

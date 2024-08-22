@@ -1,10 +1,10 @@
 ---
-id: 1011
+id: 007
 title: 'T-SQL Tuesday #007 &#8211; Summertime in the SQL'
 date: '2010-06-01T20:59:18+00:00'
 author: way0utwest
 layout: post
-permalink: '/1011'
+permalink: '/007'
 categories:
     - Uncategorized
 tags:

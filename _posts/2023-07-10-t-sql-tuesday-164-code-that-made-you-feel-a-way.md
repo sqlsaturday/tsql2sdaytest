@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #164: Code That Made You Feel A Way'
 date: '2023-07-10T11:40:02+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4544'
-permalink: '/?p=4544'
+permalink: '/164'
 categories:
     - Invitations
 tags:

@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #92, Lessons learned the hard way'
 date: '2017-07-04T14:01:48+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3043'
-permalink: '/?p=3043'
+permalink: '/092'
 categories:
     - Invitations
 tags:

@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #106 &#8211; Trigger Headaches or Happiness'
 date: '2018-09-04T00:02:59+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3797'
-permalink: '/?p=3797'
+permalink: '/106'
 categories:
     - Invitations
 tags:

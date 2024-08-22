@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #35 – Soylent Green'
 date: '2012-10-04T10:29:26+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3911'
-permalink: '/?p=3911'
+permalink: '/035'
 categories:
     - Uncategorized
 tags:

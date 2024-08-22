@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #119 &#8211; Changing your mind'
 date: '2019-10-01T09:52:28+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4041'
-permalink: '/?p=4041'
+permalink: '/119'
 categories:
     - Invitations
 tags:

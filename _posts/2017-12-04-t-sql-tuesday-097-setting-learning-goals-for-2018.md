@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #097 &#8211; Setting Learning Goals for 2018'
 date: '2017-12-04T17:31:14+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3443'
-permalink: '/?p=3443'
+permalink: '/097'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2017'
     - career

@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #056 &#8211; Assumptions'
 date: '2014-07-01T16:53:40+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2141'
-permalink: '/?p=2141'
+permalink: '/056'
 categories:
     - Invitations
 tags:

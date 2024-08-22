@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #038 &#8211; Standing Firm'
 date: '2013-01-07T17:51:55+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2641'
-permalink: '/?p=2641'
+permalink: '/038'
 categories:
     - Uncategorized
 tags:

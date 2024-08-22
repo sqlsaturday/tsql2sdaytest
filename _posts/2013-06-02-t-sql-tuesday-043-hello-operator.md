@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #043 &#8211; Hello, Operator?'
 date: '2013-06-02T17:40:13+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2521'
-permalink: '/?p=2521'
+permalink: '/043'
 categories:
     - Invitations
 tags:

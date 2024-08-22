@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #019 &#8211; Disasters and Recovery'
 date: '2011-06-02T16:04:13+00:00'
 author: way0utwest
 layout: post
-permalink: '/3854'
+permalink: '/019'
 categories:
     - Invitations
 tags:

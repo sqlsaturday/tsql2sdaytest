@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #135 &#8211; The outstanding tools of the trade that make 
 date: '2021-02-04T15:58:40+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4239'
-permalink: '/?p=4239'
+permalink: '/135'
 categories:
     - Invitations
 tags:

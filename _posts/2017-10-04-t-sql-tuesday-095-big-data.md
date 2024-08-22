@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #095 &#8211; Big Data'
 date: '2017-10-04T03:10:44+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3273'
-permalink: '/?p=3273'
+permalink: '/095'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2017'
     - 'Big Data'

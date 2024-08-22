@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #053 &#8211; Why So Serious'
 date: '2014-04-01T17:09:09+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2261'
-permalink: '/?p=2261'
+permalink: '/053'
 categories:
     - Invitations
 tags:

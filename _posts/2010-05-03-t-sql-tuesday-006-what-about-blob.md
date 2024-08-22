@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #006: &#8220;What About BLOB?&#8221;'
 date: '2010-05-03T20:45:52+00:00'
 author: way0utwest
 layout: post
-permalink: '/971'
+permalink: '/006'
 categories:
     - Uncategorized
 tags:

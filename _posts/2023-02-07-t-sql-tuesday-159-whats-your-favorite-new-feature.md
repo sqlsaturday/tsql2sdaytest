@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #159 &#8211; What&#8217;s Your Favorite New Feature?'
 date: '2023-02-07T06:58:51+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4492'
-permalink: '/?p=4493'
+permalink: '/159'
 categories:
     - Invitations
 tags:

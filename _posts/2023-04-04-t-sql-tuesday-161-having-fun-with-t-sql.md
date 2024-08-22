@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #161 &#8211; Having Fun with T-SQL'
 date: '2023-04-04T13:31:00+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4516'
-permalink: '/?p=4516'
+permalink: '/161'
 categories:
     - Invitations
 tags:

@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #176: One piece of advice you wish Past You had'
 date: '2024-07-02T08:59:00+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4668'
-permalink: '/?p=4669'
+permalink: '/176'
 categories:
     - Invitations
 tags:

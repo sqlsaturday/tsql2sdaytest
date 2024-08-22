@@ -1,10 +1,10 @@
 ---
-id: 941
+id: 005
 title: 'T-SQL Tuesday #005: Reporting'
 date: '2010-04-05T20:39:43+00:00'
 author: way0utwest
 layout: post
-permalink: '/941'
+permalink: '/005'
 categories:
     - Uncategorized
 tags:

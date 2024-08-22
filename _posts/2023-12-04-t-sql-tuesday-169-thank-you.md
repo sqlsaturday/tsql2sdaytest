@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #169 &#8211; Thank You'
 date: '2023-12-04T08:55:32+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4603'
-permalink: '/?p=4603'
+permalink: '/169'
 categories:
     - Invitations
 tags:

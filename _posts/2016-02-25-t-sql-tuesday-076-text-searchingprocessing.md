@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #076 &#8211; Text Searching/Processing'
 date: '2016-02-25T21:57:03+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1521'
-permalink: '/?p=1521'
+permalink: '/076'
 categories:
     - Uncategorized
 tags:

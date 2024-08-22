@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #022 &#8211; Data Presentation'
 date: '2011-09-06T16:17:06+00:00'
 author: way0utwest
 layout: post
-permalink: '/3865'
+permalink: '/022'
 categories:
     - Invitations
 tags:

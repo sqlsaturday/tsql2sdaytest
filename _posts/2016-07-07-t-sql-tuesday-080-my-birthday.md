@@ -4,12 +4,12 @@ title: 'T-SQL Tuesday #080 &#8211; My Birthday'
 date: '2016-07-07T21:47:27+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1411'
-permalink: '/?p=1411'
+permalink: '/080'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2016'
+    - T-SQL
 ---
 
 [Invitation](http://www.toadworld.com/platforms/sql-server/b/weblog/archive/2016/07/06/t-sql-tuesday-080) and [roundup ](https://chrisyatessql.wordpress.com/2016/07/19/t-sql-tuesday-080-round-up/#respond)from [Chris Yates](http://www.toadworld.com/members/chris-yates).

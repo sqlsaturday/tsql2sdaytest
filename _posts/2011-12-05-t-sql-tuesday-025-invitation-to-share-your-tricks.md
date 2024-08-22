@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #025 &#8211; Invitation to Share Your Tricks'
 date: '2011-12-05T16:28:26+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3878'
-permalink: '/?p=3878'
+permalink: '/025'
 categories:
     - Invitations
 tags:

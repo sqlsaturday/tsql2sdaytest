@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #123: Life hacks to make your day easier'
 date: '2020-02-05T09:22:30+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4090'
-permalink: '/?p=4090'
+permalink: '/123'
 categories:
     - Invitations
 tags:

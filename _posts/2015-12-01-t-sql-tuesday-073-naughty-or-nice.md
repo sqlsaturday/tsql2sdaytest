@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #073 &#8211; Naughty or Nice?'
 date: '2015-12-01T22:31:42+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1581'
-permalink: '/?p=1581'
+permalink: '/073'
 categories:
     - Uncategorized
 tags:

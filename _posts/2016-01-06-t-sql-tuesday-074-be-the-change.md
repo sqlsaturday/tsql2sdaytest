@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #074 &#8211; Be the Change'
 date: '2016-01-06T22:29:34+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1562'
-permalink: '/?p=1562'
+permalink: '/074'
 categories:
     - Uncategorized
 tags:

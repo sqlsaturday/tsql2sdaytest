@@ -4,8 +4,7 @@ title: 'Let&#8217;s All Get PoSh &#8211; What are you going to automate today fo
 date: '2017-09-05T18:24:24+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3193'
-permalink: '/?p=3193'
+permalink: '/094'
 categories:
     - Invitations
 tags:

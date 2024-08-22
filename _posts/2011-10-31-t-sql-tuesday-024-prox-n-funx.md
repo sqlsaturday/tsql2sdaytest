@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #024 &#8211; Prox &#8216;n&#8217; Funx'
 date: '2011-10-31T16:25:51+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3874'
-permalink: '/?p=3874'
+permalink: '/024'
 categories:
     - Invitations
 tags:

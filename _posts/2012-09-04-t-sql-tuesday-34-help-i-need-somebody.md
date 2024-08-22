@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #34 – Help! I Need Somebody'
 date: '2012-09-04T11:44:30+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3916'
-permalink: '/?p=3916'
+permalink: '/034'
 categories:
     - Invitations
 tags:

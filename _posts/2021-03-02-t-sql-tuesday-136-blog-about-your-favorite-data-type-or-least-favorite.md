@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #136 &#8211; Blog About Your Favorite Data Type (Or Least 
 date: '2021-03-02T17:13:22+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4249'
-permalink: '/?p=4249'
+permalink: '/136'
 categories:
     - Invitations
 tags:

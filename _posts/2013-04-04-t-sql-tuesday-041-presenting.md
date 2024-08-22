@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #041 &#8211; Presenting'
 date: '2013-04-04T17:45:18+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2561'
-permalink: '/?p=2561'
+permalink: '/041'
 categories:
     - Uncategorized
 tags:

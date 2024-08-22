@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #098 &#8211; Your Technical Challenges Conquered'
 date: '2018-01-02T17:44:35+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3543'
-permalink: '/?p=3543'
+permalink: '/098'
 categories:
     - Invitations
 tags:

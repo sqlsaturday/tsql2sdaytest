@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #020 &#8211; T-SQL Best Practices'
 date: '2011-07-05T08:07:02+00:00'
 author: way0utwest
 layout: post
-permalink: '/3857'
+permalink: '/020'
 categories:
     - Invitations
 tags:

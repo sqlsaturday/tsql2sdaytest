@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #027 &#8211; Invitation to The Big Data Valentine’s Edit
 date: '2012-02-07T16:35:03+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3885'
-permalink: '/?p=3885'
+permalink: '/027'
 categories:
     - Invitations
 tags:

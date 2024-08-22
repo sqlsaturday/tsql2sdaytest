@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #117 &#8211; When Have You Used MOT Tables?'
 date: '2019-08-08T08:27:43+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4004'
-permalink: '/?p=4004'
+permalink: '/117'
 categories:
     - Invitations
 tags:

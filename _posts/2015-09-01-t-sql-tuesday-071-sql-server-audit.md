@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #071 &#8211; SQL Server Audit'
 date: '2015-09-01T22:38:02+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1641'
-permalink: '/?p=1641'
+permalink: '/071'
 categories:
     - Uncategorized
 tags:

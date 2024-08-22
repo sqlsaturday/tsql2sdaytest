@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #160: Microsoft OpenAI Wishlist'
 date: '2023-03-07T14:09:41+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4500'
-permalink: '/?p=4500'
+permalink: '/160'
 categories:
     - Invitations
 tags:

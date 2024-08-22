@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #039 &#8211; Can You Shell What the PoSH is Cooking?'
 date: '2013-02-05T17:49:40+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2611'
-permalink: '/?p=2611'
+permalink: '/039'
 categories:
     - Invitations
 tags:

@@ -4,10 +4,9 @@ title: 'T-SQL Tuesday #088 &#8211; The daily (database-related) WTF'
 date: '2017-03-03T17:02:31+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2731'
-permalink: '/?p=2731'
+permalink: '/088'
 categories:
-    - Uncategorized
+    - Invitations
 tags:
     - '2017'
     - failure

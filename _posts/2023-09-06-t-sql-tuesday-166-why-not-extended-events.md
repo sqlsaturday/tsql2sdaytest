@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #166 &#8211; Why Not Extended Events?'
 date: '2023-09-06T12:53:00+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4575'
-permalink: '/?p=4575'
+permalink: '/166'
 categories:
     - Invitations
 tags:

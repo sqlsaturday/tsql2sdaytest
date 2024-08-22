@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #065 &#8211; Teach Something New'
 date: '2015-04-07T16:34:21+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1941'
-permalink: '/?p=1941'
+permalink: '/065'
 categories:
     - Uncategorized
 tags:

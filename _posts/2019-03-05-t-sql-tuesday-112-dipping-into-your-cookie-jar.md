@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #112 – Dipping into your Cookie Jar'
 date: '2019-03-05T17:39:53+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3954'
-permalink: '/?p=3954'
+permalink: '/112'
 categories:
     - Invitations
 tags:

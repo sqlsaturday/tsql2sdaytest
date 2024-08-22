@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #152 &#8211; It Depends'
 date: '2022-07-05T07:54:50+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4423'
-permalink: '/?p=4423'
+permalink: '/152'
 categories:
     - Invitations
 tags:
