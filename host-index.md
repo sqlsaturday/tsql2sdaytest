@@ -6,11 +6,11 @@ permalink: /host-index/
 
 A list of people hosting and their totals. If you notice anything missing, contact [@way0utwest](https://www.twitter.com/way0utwest).
 
-[Aaron Bertrand](https://sqlblog.org/) – Hosted: 1 ([099](/099))
+[Aaron Bertrand](https://sqlblog.org/) – Hosted: 1 ([099](../099))
 
-[Aaron Nelson](http://sqlvariant.com)– Hosted: 2 ([005,](/005) [031](/031))
+[Aaron Nelson](http://sqlvariant.com)– Hosted: 2 ([005,](../005) [031](../031))
 
-[Adam Machanic](http://dataeducation.com/blog/) – Hosted: 4 ([001](001), [002](002), [021](021), [100](/100))
+[Adam Machanic](http://dataeducation.com/blog/) – Hosted: 4 ([001](../001), [002](../002), [021](../021), [100](../100))
 
 [Alex Yates](http://workingwithdevs.com) – Hosted: 1 ([119](/119))
 
