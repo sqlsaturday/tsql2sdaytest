@@ -18,8 +18,9 @@ author: The SQL Saturday Corporation
 
 navbar-links:
   The Archive: "the-archive"
-  Rules: "rules"
   Host Index: "host-index"
+  News: "news"
+  Rules: "rules"
   About: "about"
   Contact: "contact"
 
