@@ -1,6 +1,6 @@
 ---
 layout: page
-title: T-SQL Tuesday News
+title: Migration Testing
 permalink: /news/20240822-migrationtesting
 ---
 
