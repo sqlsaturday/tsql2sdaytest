@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #174: Your Favorite Job Interview Question'
 date: '2024-05-07T16:27:28+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=4655'
-permalink: '/?p=4655'
+permalink: '/4655'
 categories:
     - Invitations
 tags:
