@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #33 – Trick Shot'
 date: '2012-08-07T11:48:11+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3919'
-permalink: '/?p=3919'
+permalink: '/033'
 categories:
     - Uncategorized
 tags:

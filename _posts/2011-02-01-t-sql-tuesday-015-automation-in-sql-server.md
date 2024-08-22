@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #015 &#8211; Automation in SQL Server'
 date: '2011-02-01T15:49:57+00:00'
 author: way0utwest
 layout: post
-permalink: '3844'
+permalink: '015'
 categories:
     - Invitations
 tags:

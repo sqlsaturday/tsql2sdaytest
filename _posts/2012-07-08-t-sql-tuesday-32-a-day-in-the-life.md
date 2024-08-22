@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #32 – A Day in the Life'
 date: '2012-07-08T11:51:49+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3922'
-permalink: '/?p=3922'
+permalink: '/032'
 categories:
     - Invitations
 tags:

@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #030 &#8211; A DBA&#8217;s Ethics'
 date: '2012-04-30T16:47:14+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3899'
-permalink: '/?p=3899'
+permalink: '030'
 categories:
     - Invitations
 tags:

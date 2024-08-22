@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #045 &#8211; Follow the Yellow Brick Road'
 date: '2013-08-05T17:35:09+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2471'
-permalink: '/?p=2471'
+permalink: '/045'
 categories:
     - Invitations
 tags:

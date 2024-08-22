@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #046 &#8211; Rube Goldberg Machine'
 date: '2013-09-02T17:32:38+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2441'
-permalink: '/?p=2441'
+permalink: '/046'
 categories:
     - Uncategorized
 tags:

@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #016 &#8211; Aggregate Functions'
 date: '2011-02-26T15:54:38+00:00'
 author: way0utwest
 layout: post
-permalink: '/3847'
+permalink: '/016'
 categories:
     - Invitations
 tags:

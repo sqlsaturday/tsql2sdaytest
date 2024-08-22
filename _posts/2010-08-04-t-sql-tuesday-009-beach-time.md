@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #009: Beach Time'
 date: '2010-08-04T21:07:03+00:00'
 author: way0utwest
 layout: post
-permalink: '/1051'
+permalink: '/009'
 categories:
     - Uncategorized
 tags:

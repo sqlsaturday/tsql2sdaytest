@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #047 &#8211; Your Best SQL Saturday SWAG'
 date: '2013-10-03T17:30:11+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2421'
-permalink: '/?p=2421'
+permalink: '/047'
 categories:
     - Invitations
 tags:

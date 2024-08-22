@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #044 &#8211; Second Chance'
 date: '2013-07-02T17:38:06+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2501'
-permalink: '/?p=2501'
+permalink: '/044'
 categories:
     - Invitations
 tags:

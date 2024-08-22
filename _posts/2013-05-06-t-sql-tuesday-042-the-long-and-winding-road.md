@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #042 &#8211; The Long and Winding Road'
 date: '2013-05-06T17:42:57+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2541'
-permalink: '/?p=2541'
+permalink: '/042'
 categories:
     - Invitations
 tags:

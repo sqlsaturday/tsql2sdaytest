@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #054 &#8211; Interviews and Hiring'
 date: '2014-05-05T16:59:45+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2191'
-permalink: '/?p=2191'
+permalink: '/054'
 categories:
     - Invitations
 tags:

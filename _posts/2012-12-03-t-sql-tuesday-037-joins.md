@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #037 &#8211; Joins'
 date: '2012-12-03T10:20:04+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=3904'
-permalink: '/?p=3904'
+permalink: '/037'
 categories:
     - Invitations
 tags:

@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #051 &#8211; Place Your Bets'
 date: '2014-02-07T17:16:36+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2321'
-permalink: '/?p=2321'
+permalink: '/051'
 categories:
     - Invitations
 tags:

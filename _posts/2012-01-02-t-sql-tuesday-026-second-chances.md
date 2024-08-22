@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #026 &#8211; Second Chances'
 date: '2012-01-02T16:32:31+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3881'
-permalink: '/?p=3881'
+permalink: '/026'
 categories:
     - Invitations
 tags:

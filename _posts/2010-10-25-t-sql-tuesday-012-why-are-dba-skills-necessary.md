@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #012 &#8211; Why are DBA skills necessary?'
 date: '2010-10-25T21:17:35+00:00'
 author: way0utwest
 layout: post
-permalink: '/1131'
+permalink: '/012'
 categories:
     - Uncategorized
 tags:

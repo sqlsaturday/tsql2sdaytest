@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #029 &#8211; Let&#8217;s have a SQL Server 2012 party'
 date: '2012-04-03T16:44:16+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.azurewebsites.net/?p=3894'
-permalink: '/?p=3894'
+permalink: '/029
 categories:
     - Invitations
 tags:

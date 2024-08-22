@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #008: Gettin’ Schooled'
 date: '2010-07-04T21:03:34+00:00'
 author: way0utwest
 layout: post
-permalink: '/1031'
+permalink: '/008'
 categories:
     - Uncategorized
 tags:

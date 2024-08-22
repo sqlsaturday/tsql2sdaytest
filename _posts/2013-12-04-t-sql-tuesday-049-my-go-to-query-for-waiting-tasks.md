@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #049 &#8211; My Go-To Query For Waiting Tasks'
 date: '2013-12-04T17:23:44+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=2371'
-permalink: '/?p=2371'
+permalink: '/049'
 categories:
     - Uncategorized
 tags:

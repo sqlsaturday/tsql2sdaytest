@@ -4,7 +4,7 @@ title: 'T-SQL Tuesday #011 &#8211; Misconceptions in SQL Server'
 date: '2010-10-06T21:13:35+00:00'
 author: way0utwest
 layout: post
-permalink: '/1101'
+permalink: '/011'
 categories:
     - Uncategorized
 tags:
