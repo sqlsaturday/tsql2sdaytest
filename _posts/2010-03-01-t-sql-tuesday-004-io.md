@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #004: IO'
 date: '2010-03-01T20:38:08+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=911'
-permalink: '/?p=911'
+permalink: '/911'
 categories:
     - Uncategorized
 tags:

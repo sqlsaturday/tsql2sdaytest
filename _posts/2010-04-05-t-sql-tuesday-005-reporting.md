@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #005: Reporting'
 date: '2010-04-05T20:39:43+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=941'
-permalink: '/?p=941'
+permalink: '/941'
 categories:
     - Uncategorized
 tags:

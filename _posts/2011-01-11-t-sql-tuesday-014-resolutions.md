@@ -4,8 +4,7 @@ title: 'T-SQL Tuesday #014 – RESOLUTIONS'
 date: '2011-01-11T21:23:54+00:00'
 author: way0utwest
 layout: post
-guid: 'http://tsqltuesday.com/?p=1191'
-permalink: '/?p=1191'
+permalink: '/1191'
 categories:
     - Uncategorized
 tags:
